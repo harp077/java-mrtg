@@ -1,4 +1,4 @@
-![mrtg-big](mrtg-big-logo.png?raw=true)
+![mrtg-big](java-mrtg-snap.png.png?raw=true)
 
 ![mrtg](mrtg.png?raw=true)  Java MRTG, the traffic SNMP-poller. 
 
