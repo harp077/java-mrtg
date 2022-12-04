@@ -14,7 +14,7 @@ public class ClientMRTG extends JFrame {
 
     String helpStr = TITLE + "\nUse 32-bit counters for speed <= 100 Mbit/s. \nPolling every 300 sec.\nNeed jre-1.8\nMade by Roman Koldaev, \nSaratov city, Russia, \nMail = harp07@mail.ru\nGitHub = https://github.com/harp077 \nSourceForge = https://sourceforge.net/u/harp07/profile/ \n";
 
-    static String TITLE = " Java MRTG, the traffic SNMP-poller, v1.0.0, build 03-12-22. ";
+    static String TITLE = " Java MRTG, the traffic SNMP-poller, v1.0.1, build 04-12-22. ";
 
     static Dimension MAIN_TREE_SIZE = new Dimension(400, 400);
 
