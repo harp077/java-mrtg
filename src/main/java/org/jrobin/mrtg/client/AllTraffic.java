@@ -121,7 +121,7 @@ public class AllTraffic extends javax.swing.JFrame {
                 frameAllTraffic.setIconImage(icone.getImage());
                 frameAllTraffic.setLocation(333, 222);
                 //frameAllTraffic.setPreferredSize(GRAPH_SIZE);
-                frameAllTraffic.setSize(680, 640);
+                frameAllTraffic.setSize(768, 640);
                 frameAllTraffic.setVisible(true);
             }
         });

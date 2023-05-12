@@ -53,7 +53,7 @@ public class NewMain {
                     JFrame.setDefaultLookAndFeelDecorated(true);
                     JDialog.setDefaultLookAndFeelDecorated(true);
                     frameClientMRTG.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-                    frameClientMRTG.setSize(840, 440);
+                    frameClientMRTG.setSize(840, 480);
                     frameClientMRTG.setLocation(211, 211);
                     setLF();
                     //frameClientMRTG.mrtgPopupMenu.updateUI();

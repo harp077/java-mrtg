@@ -476,7 +476,7 @@ public class GraphFrame extends JFrame {
 			combo.insertItemAt("" + i, i - START_YEAR);
 		}
                 // YEAR BUG FIXED !!!!
-		combo.setSelectedIndex(1);
+		combo.setSelectedIndex(1); // 1 = current year !!
 	}
 
 	private void fillHours(JComboBox combo) {
